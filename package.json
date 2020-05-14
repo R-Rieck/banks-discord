@@ -1,0 +1,25 @@
+{
+  "name": "banks-discord",
+  "version": "1.0.0",
+  "description": "A Node.js Discord Bot to server several commands for your discord",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RRieck/banks-discord.git"
+  },
+  "author": "rrieck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RRieck/banks-discord/issues"
+  },
+  "homepage": "https://github.com/RRieck/banks-discord#readme"
+}

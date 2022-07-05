@@ -4,7 +4,7 @@
   "description": "A Node.js Discord Bot to server several commands for your discord",
   "main": "index.js",
   "dependencies": {
-    "@discordjs/opus": "^0.3.2",
+    "@discordjs/opus": "^0.8.0",
     "@types/node": "^14.0.27",
     "discord.js": "^12.2.0",
     "dotenv": "^8.2.0",
